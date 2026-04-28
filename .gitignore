@@ -1,15 +1,16 @@
 # Data folders
-data/
+data_preparation/
 results/
+data/precip
 
 # GIS heavy files
-*.tif
-*.nc
-*.grib
-*.zip
+#*.tif
+#*.nc
+#*.grib
+#*.zip
 
 # Logs
-*.log
+#*.log
 
 # Temp files
 *.tmp
