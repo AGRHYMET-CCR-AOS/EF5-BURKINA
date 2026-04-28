@@ -1,0 +1,25 @@
+# Data folders
+data/
+results/
+
+# GIS heavy files
+*.tif
+*.nc
+*.grib
+*.zip
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# R / Python
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
