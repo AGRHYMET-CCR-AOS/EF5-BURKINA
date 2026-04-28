@@ -1,7 +1,7 @@
 # Data folders
 data_preparation/
 results/
-data/precip
+data/precip/*
 
 # GIS heavy files
 #*.tif
